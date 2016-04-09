@@ -1,6 +1,10 @@
 {
   "name": "haloproject",
   "description": "Halo improvement coach for Halo 5",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/charters/haloproject.git"
+  },
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
